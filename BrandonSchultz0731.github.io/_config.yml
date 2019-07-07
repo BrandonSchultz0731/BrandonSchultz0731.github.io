@@ -1,0 +1,23 @@
+# Permalinks
+#
+permalink:           /:categories/:year/:month/:day/:title/
+
+# Setup
+title:               My Title
+tagline:             Brandon Website
+description:         Brandon Website
+url:                 http://brandonschultzresume.com
+baseurl:             ''
+paginate:            5
+
+# Plugins, Tags, Categories and Analytics
+plugins:          [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Brandon Schultz
+  url:               https://brandonschultzresume.com
+  email:             schultzy03@yahoo.com
+
+# Custom vars
+version:             1.0.0
