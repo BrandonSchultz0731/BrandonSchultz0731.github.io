@@ -4,7 +4,8 @@ title: About Me
 ---
 <span>![About-Me-Image](./profile-pic.jpg)</span>
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! My name is Brandon Schultz. I am a Senior at Florida Gulf Coast University majoring in Software Engineering
+  and minoring in Mathematics.
 </p>
 
 This is a test to see if this message gets inserted into the page! Start inserting about me info!
