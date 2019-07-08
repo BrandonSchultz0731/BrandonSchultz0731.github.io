@@ -3,9 +3,9 @@
 permalink:           /:categories/:year/:month/:day/:title/
 
 # Setup
-title:               My Title
-tagline:             Brandon Website
-description:         Brandon Website
+title:               Brandon Schultx
+tagline:             Brandon's Website
+description:         Brandon's Website
 url:                 http://brandonschultzresume.com
 baseurl:             ''
 paginate:            5
